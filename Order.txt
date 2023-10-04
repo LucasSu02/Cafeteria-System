@@ -1,0 +1,28 @@
+CustomerID dd/MM/yyyy hh:mm:ss price feedback complete
+FOOD FoodID FoodName
+
+CAA001 03/09/2022 00:28:57 12.0 FEED1 COMP1
+FOOD 0009 Kaya_Toast
+FOOD 0009 Kaya_Toast
+FOOD 0009 Kaya_Toast
+
+CAA002 03/09/2022 00:34:17 21.0 FEED1 COMP1
+FOOD 0008 Rendang_Chicken
+FOOD 0008 Rendang_Chicken
+FOOD 0001 Nasi_Lemak
+
+CAA004 04/09/2022 12:51:32 22.0 FEED1 COMP1
+FOOD 0006 Nasi_Kerabu
+FOOD 0010 Maggi_Goreng
+FOOD 0008 Rendang_Chicken
+
+CAA001 04/09/2022 23:40:10 40.0 FEED1 COMP1
+FOOD 0005 Chicken_Chop
+FOOD 0013 Chicken_Claypot_Rice
+FOOD 0008 Rendang_Chicken
+FOOD 0010 Maggi_Goreng
+
+CAA001 13/09/2022 18:31:35 19.0 FEED1 COMP1
+FOOD 0007 Rendang_Beef
+FOOD 0002 Char_Koay_Teow
+

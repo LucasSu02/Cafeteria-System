@@ -1,0 +1,19 @@
+0001 Nasi_Lemak Malay Rice 10
+0002 Char_Koay_Teow Chinese Noodles 9
+0003 Roti_Canai Indian Bread 1.5
+0004 Teh_Tarik Any Drinks 1.5
+0005 Chicken_Chop Western Protein 12
+0007 Rendang_Beef Malay Protein 10
+0008 Rendang_Chicken Malay Protein 8
+0009 Kaya_Toast Chinese Bread 4
+0010 Maggi_Goreng Malay Noodle 8
+0011 Hokkien_Mee Chinese 8.5
+0012 Roti_Pisang Indian Bread 2
+0013 Chicken_Claypot_Rice Chinese Rice 12
+0014 Mee_Rebus Indian Noodle 8
+0015 Butter_Chicken_Rice Indian Rice 8
+0016 Tandoori_Chicken Indian Protein 10
+0017 Coffee Any Drinks 1.5
+0018 Milkshake Any Drinks 4
+0019 Coconut_Water Any Drinks 2.5
+0020 Fried_Chicken Malay Meat 5.0

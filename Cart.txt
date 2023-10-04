@@ -1,0 +1,3 @@
+FOOD 0004 Teh_Tarik 1.5
+FOOD 0013 Chicken_Claypot_Rice 12
+FOOD 0013 Chicken_Claypot_Rice 12
